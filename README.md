@@ -1,4 +1,4 @@
-# WebAutomationWoolies
+# BDDWebAutomationWoolies
 
 
 ## Design:

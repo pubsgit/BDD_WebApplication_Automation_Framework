@@ -1,4 +1,4 @@
-# BDDWebAutomationWoolies
+# BDD_WebAutomation_Framework
 
 
 ## Design:

@@ -7,7 +7,7 @@
 
 ###2. BDD Automation framework implemented.
 
-###3. Data Driven using exetrnal files.
+###3. Data Driven using external files.
 
 ###4. Supports running on Firefox, Chrome, IE, Selenium Hub / Grid.
 
